@@ -6,13 +6,14 @@
 #mision img{
   width: 50%;
   margin-top: 120px;
-}
+
+  @media (min-width: 600px) {
+  .mostrar{
+    display:none;
+  }
 
 }
-@media (min-width: 600px) {
-.mostrar{
-  display:none;
-}
+
 
 .textoColorChronos { color: rgb(177, 35, 31)!important; }
 .btnChronos {background-color: rgb(177,35,31)!important;
