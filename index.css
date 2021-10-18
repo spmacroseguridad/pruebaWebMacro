@@ -1,4 +1,4 @@
-@media (min-width: 576px) {
+@media (max-width: 576px) {
 
 #mision {
   margin-top: 120px;
