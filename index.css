@@ -7,13 +7,13 @@
   width: 50%;
   margin-top: 120px;
 }
-.what{
-  background-color: #c70909;
-  display: none;
-}
-}
 
 
+}
+
+#mostrar{
+  display:none;
+}
 
 .textoColorChronos { color: rgb(177, 35, 31)!important; }
 .btnChronos {background-color: rgb(177,35,31)!important;
