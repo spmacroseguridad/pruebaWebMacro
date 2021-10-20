@@ -23,6 +23,7 @@
         z-index:999;
 }
 }
+@media (min-width: 501px) {
 
 .btn-whatsapp {
         display:none;
@@ -95,5 +96,6 @@ color: white!important;}
 
 #copy {
   font-size: 12px!important;
+}
 }
 }
