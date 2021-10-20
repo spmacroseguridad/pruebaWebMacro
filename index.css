@@ -24,6 +24,19 @@
 }
 }
 
+.btn-whatsapp {
+        display:none;
+        width:70px;
+        height:70px;
+        color#fff;
+        position: fixed;
+        right:20px;
+        bottom:20px;
+        border-radius:50%;
+        line-height:80px;
+        text-align:center;
+        z-index:999;
+}
 .textoColorChronos { color: rgb(177, 35, 31)!important; }
 .btnChronos {background-color: rgb(177,35,31)!important;
 color: white!important;}
